@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jack-Chronicle
-- 👀 I’m interested in making Fiction based applications, or scripts to help with world building
-- 🌱 I’m currently learning Python... slowly
-- 📫 How to reach me ...
+- Hi, I’m @Jack-Chronicle
+- The Jester King, Court Fool of The Universe
+- Paladin of NYX, Guardian of The Nights Light
+
 
 <!---
 Jack-Chronicle/Jack-Chronicle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
