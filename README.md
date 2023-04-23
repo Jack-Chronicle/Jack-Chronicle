@@ -1,6 +1,7 @@
 - Hi, I’m @Jack-Chronicle
-- The Jester King, Court Fool of The Universe
-- Paladin of NYX, Guardian of The Nights Light
+- World Builder
+- App "Connesurier"
+
 
 
 <!---
